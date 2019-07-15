@@ -3,5 +3,5 @@ package go_module
 import "fmt"
 
 func Hello() {
-	fmt.Println("hello word: v1.0.0")
+	fmt.Println("hello word: v1.1.0")
 }
